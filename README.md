@@ -1,8 +1,6 @@
-Certainly! Below is an example of a comprehensive README for a project done in a Jupyter Notebook. This example assumes the project is a data analysis or machine learning project.
-
 ---
 
-# Project Title
+# FRMI analysis using Graph Convolution Neural network
 
 Brief description of what the project does and its purpose.
 
